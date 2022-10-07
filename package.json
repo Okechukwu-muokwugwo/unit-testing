@@ -1,0 +1,26 @@
+{
+  "name": "unit-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Okechukwu-muokwugwo/unit-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Okechukwu-muokwugwo/unit-testing/issues"
+  },
+  "homepage": "https://github.com/Okechukwu-muokwugwo/unit-testing#readme",
+  "dependencies": {
+    "jest": "^29.1.2"
+  },
+  "devDependencies": {
+    "stylelint": "^13.13.1"
+  }
+}
